@@ -1,5 +1,7 @@
 # Time Series Forecasting Using the ARIMA Model for COVID-19 Cases
 
+*Tools Used: Python (Jupiter Notebook)*
+
 ## Introduction
 This report presents an analysis of the daily COVID-19 cases in the UK from January 1, 2020, to June 14, 2020. The objective of this study is to model and forecast the number of cases for the next seven days (June 15-21, 2020) using the ARIMA (AutoRegressive Integrated Moving Average) model. The study evaluates stationarity, selects appropriate model parameters, estimates the model, and assesses the accuracy of the forecast.
 
